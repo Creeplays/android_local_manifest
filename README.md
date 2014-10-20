@@ -11,5 +11,4 @@ Initialize repo:
 
 Compile:
 
-    . build/envsetup.sh
-    brunch golfu
+    ./build-pac.sh golfu
