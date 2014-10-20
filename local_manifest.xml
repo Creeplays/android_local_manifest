@@ -14,8 +14,8 @@
     <!--<project path="vendor/cm" name="legaCyMod/android_vendor_cm" revision="cm-11.0" />-->
     
     <!-- Golfu -->
-    <project path="device/htc/golfu" name="high1/android_device_htc_golfu" revision="cm-11.0" />
-    <project path="kernel/htc/golfu" name="high1/android_kernel_htc_golfu" revision="cm-11.0" />
+    <project path="device/htc/golfu" name="Creeplays/android_device_htc_golfu" revision="cm-11.0" />
+    <project path="kernel/htc/golfu" name="Creeplays/android_kernel_htc_golfu" revision="cm-11.0" />
     <!--<project path="vendor/htc/golfu" name="high1/android_vendor_htc_golfu" revision="cm-11.0" />-->
 
     <!-- FM Radio -->
